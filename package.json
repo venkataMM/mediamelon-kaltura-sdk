@@ -1,6 +1,6 @@
 {
   "name": "mediamelon-kaltura-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MediaMelon Kaltura JS SDK",
   "main": "mmsmartstreaming_kalturaplayer.min.js",
   "scripts": {
